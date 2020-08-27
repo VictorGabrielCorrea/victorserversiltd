@@ -1,7 +1,5 @@
 #!/bin/bash
 
-. ${SCRIPTS:-/}start-utils
-
 shopt -s nullglob
 
 #umask 002
